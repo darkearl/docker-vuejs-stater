@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h1>template default</h1>
+		<h1>template default PC</h1>
 		<slot/>
 	</div>
 </template>
